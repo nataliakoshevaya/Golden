@@ -1,0 +1,13 @@
+.card {
+    border: none;
+}
+
+.footer {
+    margin: 20px 0;
+}
+
+textarea.form-control {
+    height: 145px;
+    resize: none;
+}
+
